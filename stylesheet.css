@@ -1,0 +1,61 @@
+
+  body {
+    font-family: "Avenir Next";
+    
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #d8dacd;
+    color: 9#fff;
+    height: 220px;
+    background-image: url("https://ik.imagekit.io/theartling/prod/original_images/soyoung.jpeg?tr=w-1650");
+    
+  }
+  .header-logo {
+    color: #26d0c9;
+    float: left;
+    font-style: italic;
+    font-size: 45px;
+    padding: 20px 40px;
+    
+    
+  }
+  .header-list li {
+    float:right;
+    padding:20px;
+  }
+ 
+  .subtitle {
+    color:#fff;
+    font-size:40px;
+    float:right;
+    padding-top:62px;
+    padding-left:140px;
+  }
+  .main {
+    
+    margin:0px;
+    padding:0px;
+  }
+  .paragraph1 {
+    background-color:bisque;
+    
+  }
+  .contents-item{
+    padding-left:100px;
+    padding-top:20px;
+   
+  }
+  .contents-item p {
+   
+    
+    font-size:18px;
+    
+  }
+ .paragraph3{
+  background-color: #d8dacd;
+  }
